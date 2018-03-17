@@ -17,13 +17,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = " 經濟學 博士"
+  institution = "東吳大學"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "經濟學 碩士"
+  institution = "逢甲大學 "
   year = 2009
 
 [[education.courses]]
