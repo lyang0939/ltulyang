@@ -25,10 +25,10 @@ weight = 5
 [[education.courses]]
   course = "經濟學 碩士"
   institution = "逢甲大學 "
-  year = 1983
+  year = 1993
 
 [[education.courses]]
-  course = "經濟學 學士"
+  course = "財稅 學士"
   institution = "逢甲大學"
   year = 1987
  
@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-Professor Yang graduated from Soochow University Business department, the Ling Tung University Vice Chancellor, Dean of College of Finance and economics, Dean of Financial Law Institute, Executive Master of business (EMBA) Professor, engaged in banking, financial risk, investment portfolio, performance evaluation, economic research and teaching.
+Professor Yang graduated from Soochow University economic department, the Ling Tung University Vice President, Dean of College of Finance and economics, Executive Master of business (EMBA) Professor, engaged in banking, financial risk, investment portfolio, performance evaluation, economic research and teaching.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
