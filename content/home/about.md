@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = " 經濟學 博士"
   institution = "東吳大學"
-  year = 2012
+  year = 2000
 
 [[education.courses]]
   course = "經濟學 碩士"
   institution = "逢甲大學 "
-  year = 2009
+  year = 1983
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "經濟學 學士"
+  institution = "逢甲大學"
+  year = 1987
  
 +++
 
