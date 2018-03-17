@@ -63,8 +63,8 @@ defaultContentLanguageInSubdir = false
   address = "臺中市南屯區嶺東路1號"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "0939048111"
-  skype = "echo123"
-  telegram = ""
+  skype = "o939048111"
+  
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
