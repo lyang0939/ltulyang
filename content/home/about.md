@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "banking",
+    "DEA",
+    "R",
+    "python",
   ]
 
 # List your qualifications (such as academic degrees).
