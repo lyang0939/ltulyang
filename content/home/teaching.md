@@ -15,14 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+I am a teaching instructor for the following courses at LTU:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- MF17003011:時間序列分析
+- MF27004021:財金論文研討（二）
+- VA17002011:研究方法
+- VF27002021:財金論文研討（二）
+
